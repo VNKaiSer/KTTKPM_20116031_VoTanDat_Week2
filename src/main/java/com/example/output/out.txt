@@ -1,0 +1,11 @@
+Level: 1, Path: /Account.java, File: Account.java
+Level: 2, Path: /nested/Account.java, File: Account.java
+Level: 2, Path: /nested/Customer.java, File: Customer.java
+Field Modifiers: [private ]Field Type: StringField Name: name
+
+------
+
+Field Modifiers: [private ]Field Type: StringField Name: email
+
+------
+
